@@ -1,0 +1,29 @@
+body {
+  background: image(red-rhododendrons);
+}
+
+header {
+  background-color: black;
+}
+
+h1,
+h3 {
+  text-align: center;
+  margin: 0 auto;
+}
+
+h1 {
+  color: red;
+  font-family: "Whisper", cursive;
+  font-size: 200px;
+}
+
+h3 {
+  font-family: "Courier New", Courier, monospace;
+  color: white;
+  font-size: 35px;
+}
+
+p {
+  font-family: "Courier New", Courier, monospace;
+}
